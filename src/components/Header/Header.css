@@ -1,0 +1,7 @@
+.header-wrapper {
+	margin: 0 20%;
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+	align-items: flex-end;
+}
